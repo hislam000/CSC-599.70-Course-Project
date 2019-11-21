@@ -2,12 +2,12 @@
 # CSC-599.70-Course-Project 
 # Professor Grant M. Long
 Team Member & Name: RentAdvisor (3-Member)
-
 # *ABDUR RAFEY*
 # *HASIBUL ISLAM*
 # *DZHONIBEK PARMANKULOV*
 
-## Due November 23, 2019, 11:59pm: RentAdvisor.ipynb ###
+# --------------------------------------------------------
+# Due November 23, 2019, 11:59pm: RentAdvisor.ipynb 
 CLICK Here: https://colab.research.google.com/drive/1Y2cKlUINbW7e-5iO-tLz6p88FMko8ku7
 
 # *REPORT* #
@@ -35,6 +35,6 @@ Mean Squared Error for Test1 using Linear Regression: 3313817.143868871
 
     Another hidden factor that could be playing a role in this could be the fact that Linear Regressions require normalization to avoid overfitting, whereas Random Forest has this built-in.   
 
-# ----------------------------------------------
+# --------------------------------------------------------
 # (ii) Intended Strategy to improve the predictions
     For the final submission, we intend to 
