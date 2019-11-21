@@ -38,3 +38,12 @@ Mean Squared Error for Test1 using Linear Regression: 3313817.143868871
 # --------------------------------------------------------
 # (ii) Intended Strategy to improve the predictions
     For the final submission, we intend to 
+
+# Graphs for training data: 
+![1](https://user-images.githubusercontent.com/36207058/69293321-8c1f7480-0bd6-11ea-9981-b41a9fd7c10e.png)
+![2](https://user-images.githubusercontent.com/36207058/69293326-8de93800-0bd6-11ea-88aa-4346334a178b.png)
+![33](https://user-images.githubusercontent.com/36207058/69293327-904b9200-0bd6-11ea-9d7a-8ecae9bb8649.png)
+![4](https://user-images.githubusercontent.com/36207058/69293333-92adec00-0bd6-11ea-86dd-7e55cc1e21a1.png)
+![5](https://user-images.githubusercontent.com/36207058/69293336-9477af80-0bd6-11ea-9561-1f2e7028ec24.png)
+![6](https://user-images.githubusercontent.com/36207058/69293341-96da0980-0bd6-11ea-976c-5262106548a8.png)
+
