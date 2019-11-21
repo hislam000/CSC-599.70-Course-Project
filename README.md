@@ -47,3 +47,15 @@ Mean Squared Error for Test1 using Linear Regression: 3313817.143868871
 ![5](https://user-images.githubusercontent.com/36207058/69293336-9477af80-0bd6-11ea-9561-1f2e7028ec24.png)
 ![6](https://user-images.githubusercontent.com/36207058/69293341-96da0980-0bd6-11ea-976c-5262106548a8.png)
 
+# Graphs for test 2 data: 
+![11](https://user-images.githubusercontent.com/36207058/69293419-cdb01f80-0bd6-11ea-9d9a-c7ed0c5ca086.png)
+![22](https://user-images.githubusercontent.com/36207058/69293421-cf79e300-0bd6-11ea-9c66-dbdcedd59065.png)
+![333](https://user-images.githubusercontent.com/36207058/69293423-d0ab1000-0bd6-11ea-8028-c3b3752ef921.png)
+![44](https://user-images.githubusercontent.com/36207058/69293425-d1dc3d00-0bd6-11ea-8757-375c5afe43c2.png)
+![55](https://user-images.githubusercontent.com/36207058/69293427-d30d6a00-0bd6-11ea-9617-35517d6c2845.png)
+![66](https://user-images.githubusercontent.com/36207058/69293428-d3a60080-0bd6-11ea-8bdc-cf80a5f2a9d2.png)
+
+
+# OLS Regression Results for Training Data: 
+
+# OLS Regression Results for Test2 Data: 
