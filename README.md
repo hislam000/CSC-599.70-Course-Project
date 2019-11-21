@@ -1,5 +1,5 @@
 # Intro to Data Science, Fall 2019 @ CCNY
-# CSC-599.70-Course-Project 
+    CSC-599.70-Course-Project 
     Professor Grant M. Long
 Team Member & Name: RentAdvisor (3-Member)
 # *ABDUR RAFEY*
