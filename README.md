@@ -26,9 +26,10 @@ CLICK Here: https://colab.research.google.com/drive/1Y2cKlUINbW7e-5iO-tLz6p88FMk
 
     ['has_elevator', 'has_dishwasher', 'is_furnished', 'has_garage', 'has_pool', 'has_garden']
 
-# Although this method provided an acceptable error, it was still not efficient enough as we want to deviate as far left of the 4.0 mark as we can. Next, we tried using the Random Forest Regressor and we obtained the following results: 
+#    Although this method provided an acceptable error, it was still not efficient enough as we want to deviate as far left of the 4.0 mark as we can. Next, we tried using the Random Forest Regressor and we obtained the following results: 
 
-    Mean Squared Error for Test1 using Random Forest Regressor: 1851745.5923584981
+# Mean Squared Error for Test1 using Random Forest Regressor: 
+    1851745.5923584981
 
 # Thus,
      we were able to attain a much better result using the random forest method. This could be due to the large number of features that we taking into account. Generally, Linear Regression models can be useful for smaller ranges of continuous data. In this case, however, even though we are taking into account only one city, we have many features to handle, including numerous binary variables such as ‘has_doorman’ and ‘has_elevator’. Thus, as we move from one borough to another, more data is fed in and a random forest can handle messier data more efficiently than the regression model. 
