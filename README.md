@@ -57,5 +57,7 @@ Mean Squared Error for Test1 using Linear Regression: 3313817.143868871
 
 
 # OLS Regression Results for Training Data: 
+![1](https://user-images.githubusercontent.com/36207058/69293525-1ec01380-0bd7-11ea-896a-c6adcf24ce22.png)
 
 # OLS Regression Results for Test2 Data: 
+![2](https://user-images.githubusercontent.com/36207058/69293527-1f58aa00-0bd7-11ea-92c6-5fa201dc14fa.png)
