@@ -11,9 +11,9 @@ Team Member & Name: RentAdvisor (3-Member)
 Click: https://colab.research.google.com/drive/1Y2cKlUINbW7e-5iO-tLz6p88FMko8ku7
 
 
-(i) Expected Performance of the Model
+# (i) Expected Performance of the Model
 
-# To attain a formidable mean squared error for the rents of New York City apartments posted on StreetEasy, we intended to use a couple of models to initialize our tests. The first model we thought of using was Linear Regression. 
+To attain a formidable mean squared error for the rents of New York City apartments posted on StreetEasy, we intended to use a couple of models to initialize our tests. The first model we thought of using was Linear Regression. 
 
 Mean Squared Error for Test1 using Linear Regression: 3313817.143868871
 
