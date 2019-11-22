@@ -13,7 +13,7 @@ Click: https://colab.research.google.com/drive/1Y2cKlUINbW7e-5iO-tLz6p88FMko8ku7
 
 (i) Expected Performance of the Model
 
-	To attain a formidable mean squared error for the rents of New York City apartments posted on StreetEasy, we intended to use a couple of models to initialize our tests. The first model we thought of using was Linear Regression. 
+# To attain a formidable mean squared error for the rents of New York City apartments posted on StreetEasy, we intended to use a couple of models to initialize our tests. The first model we thought of using was Linear Regression. 
 
 Mean Squared Error for Test1 using Linear Regression: 3313817.143868871
 
@@ -32,6 +32,6 @@ Mean Squared Error for Test1 using Random Forest Regressor: 1851745.5923584981
 Thus, we were able to attain a much better result using the random forest method. This could be due to the large number of features that we taking into account. Generally, Linear Regression models can be useful for smaller ranges of continuous data. In this case, however, even though we are taking into account only one city, we have many features to handle, including numerous binary variables such as ‘has_doorman’ and ‘has_elevator’. Thus, as we move from one borough to another, more data is fed in and a random forest can handle messier data more efficiently than the regression model. Another hidden factor that could be playing a role in this could be the fact that Linear Regressions require normalization to avoid overfitting, whereas Random Forest has this built-in.   
 
 
-(ii) Intended Strategy to improve the predictions
+# (ii) Intended Strategy to improve the predictions
 
 For the final submission, we intend to improve our results by using more models for predicting larger datasets because we intend to add some additional data and functions. We are planning to include popular restaurant spots or grocery shopping locations and see if those variables can be used to predict a higher or lower rent for each location. One of the algorithms we intend to feed our data to is the k-nearest neighbors algorithm. However, since this algorithm can use both classification data and continuous data for regressions, we may fit the variables or separate them in such a way so that we run a separate compilation for classification variables and leave the continuous variables for a regression format of this algorithm. As we use this algorithm against test 3, we will be looking to see how the continuous variables are being predicted compared to our Linear Regression results. In this manner, we can fairly compare each variable with its equal counterpart and see how the classification, binary variables affect the total rental prediction output and the mean squared error with each test run. Afterwards, we will follow the same sequence of steps as our run against test 2 and generate tables and plots of our concluding results.    
