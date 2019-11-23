@@ -6,10 +6,7 @@ Team Member & Name: RentAdvisor (3-Member)
 # *HASIBUL ISLAM*
 # *DZHONIBEK PARMANKULOV*
 
-# --------------------------------------------------------
 # Due November 23, 2019, 11:59pm: RentAdvisor.ipynb 
-Click: https://colab.research.google.com/drive/1Y2cKlUINbW7e-5iO-tLz6p88FMko8ku7
-
 
 # (i) Expected Performance of the Model
 
