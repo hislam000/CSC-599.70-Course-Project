@@ -7,7 +7,7 @@ Team Member & Name: RentAdvisor (3-Member)
 # *ABDUR RAFEY*
 # *HASIBUL ISLAM*
 # *DZHONIBEK PARMANKULOV*
-
+# --------------------------------------------
 # (i) Expected Performance of the Model
 
 To attain a formidable mean squared error for the rents of New York City apartments posted on StreetEasy, we intended to use a couple of models to initialize our tests. The first model we thought of using was Linear Regression. 
