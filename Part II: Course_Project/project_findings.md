@@ -16,6 +16,8 @@ Team Member & Name: RentAdvisor (3-Member)
 
 (b) Does the inclusion of this additional data raise any ethical considerations? 
 
+- 
+
 # (2) Data Exploration. 
 (a) What outliers present issues for your analysis? How have you chosen to handle them? Why?
 
