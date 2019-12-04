@@ -9,8 +9,8 @@ Team Member & Name: RentAdvisor (3-Member)
 # *DZHONIBEK PARMANKULOV*
 # --------------------------------------------
 
-# Questions and Tasks
-(1) Data Usage.
+    Questions and Tasks
+# (1) Data Usage.
 (a) What outside data have you appended to the original data set? Why did you choose this data? 
 (b) Does the inclusion of this additional data raise any ethical considerations? 
 
