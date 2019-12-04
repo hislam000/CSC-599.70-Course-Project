@@ -4,9 +4,9 @@
     Due December 7, 2019, 11:59pm
 
 Team Member & Name: RentAdvisor (3-Member)
-    *ABDUR RAFEY*
-    *HASIBUL ISLAM*
-    *DZHONIBEK PARMANKULOV*
+   # *ABDUR RAFEY*
+   # *HASIBUL ISLAM*
+   # *DZHONIBEK PARMANKULOV*
 
 # Questions and Tasks
 # (1) Data Usage.
