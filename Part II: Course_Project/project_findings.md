@@ -71,6 +71,8 @@ Team Member & Name: RentAdvisor (3-Member)
 
 (d) Create at least one visualization that demonstrates the predictive power of your model. 
 
+-
+
 # (5) Conclusion 
 (a) How would you use this model? 
 
