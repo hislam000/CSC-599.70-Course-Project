@@ -12,7 +12,7 @@ Team Member & Name: RentAdvisor (3-Member)
 # (1) Data Usage.
 (a) What outside data have you appended to the original data set? Why did you choose this data? 
 
-    We decided to append apartment zip codes and income. We wanted to use the zip codes to see if income of tenants have anything to do with the rents at the areas. 
+- We decided to append apartment zip codes and income. We wanted to use the zip codes to see if income of tenants have anything to do with the rents at the areas. 
 
 (b) Does the inclusion of this additional data raise any ethical considerations? 
 
