@@ -25,7 +25,7 @@ Team Member & Name: RentAdvisor (3-Member)
 
 (b) To what extent do missing values pose a challenge for your analysis? How have you chosen to handle them? Why?
 
-- Missing values didn't really affect our results too much, but they do change the outlook of the conclusion of our analysis if not handled. We decided to use the median values of the other available data for the specific columns that had null values and filled them with those medians.  
+- Missing values didn't really affect our results too much, but they do change the outlook of the conclusion of our analysis if not handled. We decided to use the median values of the other available data for the specific columns that had null values and filled them with those medians. We chose median over other statistics like mean because possible outliers don't have much affect at all on the median, whereas they can skew the mean quite a bit and possibly give a false analytical conclusion.    
 
 (c) Are there any other aspects of the data your exploration shows might be problematic? 
 
@@ -33,14 +33,26 @@ Team Member & Name: RentAdvisor (3-Member)
 
 (d) Create at least one visualization that demonstrates the predictive power of your data. 
 
+-
+
 # (3) Transformation and Modeling.
  (a) Describe 5-10 features you think play the biggest role in your model. 
 
--
+- These were the features that played the biggest role in our model
 
+    bedrooms
+    bathrooms
+    size_sqft
+    addr_zip
+    floor_count
+  
+  Num of bedrooms/bathrooms and floor_count had a positive correlation to the rent. 
+  Also, the addr_zip is a feature we added to divide our data into sectors so we could see what incomes are most prevalent in    
+  which areas.   
+  
 • How did you create these features? 
 
--
+- 
 
 • How do you know these features are playing key roles? 
 
@@ -55,7 +67,7 @@ Team Member & Name: RentAdvisor (3-Member)
 -
 
 # (4) Metrics, Validation, and Evaluation. 
-(a) How well do you think you model will perform on the hold out test set? How do you know? 3 
+(a) How well do you think you model will perform on the hold out test set? How do you know? 
 
 -
 
