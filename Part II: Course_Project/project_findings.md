@@ -52,8 +52,7 @@ Team Member & Name: RentAdvisor (3-Member)
   
 • How did you create these features? 
 
-- We created these features by importing the training dataset and for the zip codes, we used an external dataset from   
-  data.cityofnewyork.us.
+- We created these features by importing the training dataset and for the zip codes, we used an external dataset from data.cityofnewyork.us.
 
 • How do you know these features are playing key roles? 
 
