@@ -56,7 +56,7 @@ Team Member & Name: RentAdvisor (3-Member)
 
 • How do you know these features are playing key roles? 
 
-- These features are playing key roles because 
+- These features are playing key roles because as bedrooms or bathrooms increase, the rent goes up, especially in certain zip codes. Another feature to take into account is best nearest restaurant. We used grades of the best nearest restaurant to see how rent increases/decreases based on this feature. 
 
 (b) Describe how you are implementing your model. Why do you think this works well? 
 
@@ -88,12 +88,12 @@ Team Member & Name: RentAdvisor (3-Member)
 # (5) Conclusion 
 (a) How would you use this model? 
 
--
+- We can use this model to determine if one sector of NYC would be best suited to your needs depending on the contributing environmental factors of that apartment location. For example, a higher rent based on better restaurants or close train stations can be seen differently from higher rent based on number of bedrooms/bathrooms. 
 
 (b) If you could have additional modeling features, what would they be? 
 
--
+- Since we are mostly taking into account environmental factors as the additional data for our experiment, we could also choose to use number of playgrounds near apartment or best rated schools near apartment if the tenants have children. 
 
 (c) Would you rather have more data, or more features?
 
--
+- 
