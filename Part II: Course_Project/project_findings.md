@@ -52,19 +52,20 @@ Team Member & Name: RentAdvisor (3-Member)
   
 • How did you create these features? 
 
-- 
+- We created these features by importing the training dataset and for the zip codes, we used an external dataset from   
+  data.cityofnewyork.us.
 
 • How do you know these features are playing key roles? 
 
--
+- These features are playing key roles because 
 
 (b) Describe how you are implementing your model. Why do you think this works well? 
 
--
+- 
 
 (c) Describe your methodology for selecting your model. Why do you think this type of model works well? 
 
--
+- Initially we started by using Linear Regression because we knew that we had continuous data to work with so that seemed too be the best option. Later, we tried Forest Tree and it gave a much smaller Mean Squared Error result due to its ability to navigate through more complex and larger datasets. With this idea in mind, we decided to use gradient boosting and it worked in a very similar method and gave a slightly better result. 
 
 # (4) Metrics, Validation, and Evaluation. 
 (a) How well do you think you model will perform on the hold out test set? How do you know? 
