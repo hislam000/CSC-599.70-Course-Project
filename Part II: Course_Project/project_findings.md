@@ -40,11 +40,11 @@ Team Member & Name: RentAdvisor (3-Member)
 
 - These were the features that played the biggest role in our model
 
-    bedrooms
-    bathrooms
-    size_sqft
-    addr_zip
-    floor_count
+    - bedrooms
+    - bathrooms
+    - size_sqft
+    - addr_zip
+    - floor_count
   
   Num of bedrooms/bathrooms and floor_count had a positive correlation to the rent. 
   Also, the addr_zip is a feature we added to divide our data into sectors so we could see what incomes are most prevalent in    
