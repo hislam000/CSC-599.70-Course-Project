@@ -16,7 +16,7 @@ Team Member & Name: RentAdvisor (3-Member)
 
 (b) Does the inclusion of this additional data raise any ethical considerations? 
 
-- 
+- One ethical consideration could be that the zip codes act like a sector divider. Thus, we get an idea of the common rent prices in different areas of New York City, which gives an indication of the social classes of tanants living in those areas.
 
 # (2) Data Exploration. 
 (a) What outliers present issues for your analysis? How have you chosen to handle them? Why?
@@ -25,7 +25,7 @@ Team Member & Name: RentAdvisor (3-Member)
 
 (b) To what extent do missing values pose a challenge for your analysis? How have you chosen to handle them? Why?
 
--
+- Missing values didn't really affect our results too much, but they do change the outlook of the conclusion of our analysis if not handled. We decided to use the median values of the other available data for the specific columns that had null values and filled them with those medians.  
 
 (c) Are there any other aspects of the data your exploration shows might be problematic? 
 
