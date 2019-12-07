@@ -8,7 +8,7 @@ Team Member & Name: RentAdvisor (3-Member)
 # *HASIBUL ISLAM*
 # *DZHONIBEK PARMANKULOV*
 
-    Questions and Tasks
+- [X] Questions and Tasks
 # (1) Data Usage.
 (a) What outside data have you appended to the original data set? Why did you choose this data? 
 
