@@ -22,7 +22,7 @@ Team Member & Name: RentAdvisor (3-Member)
 (a) What outliers present issues for your analysis? How have you chosen to handle them? Why?
 
 - [X] Outliers are luxury apartments with very high rent price and cheaply rented apartments.Since we are not allowed to delete the data 
-we didn't remove the outliers.
+we didn`t remove the outliers.
 
 (b) To what extent do missing values pose a challenge for your analysis? How have you chosen to handle them? Why?
 
@@ -57,7 +57,8 @@ we didn't remove the outliers.
 
 • How do you know these features are playing key roles? 
 
-- [X] These features are playing key roles because as bedrooms or bathrooms increase, the rent goes up, especially size_sqft.Also OLS table give us and idea which variable effects the outcome most. 
+- [X] These features are playing key roles because as bedrooms or bathrooms increase, the rent goes up, especially size_sqft.
+Also OLS table give us and idea which variable effects the outcome most. 
 
 (b) Describe how you are implementing your model. Why do you think this works well? 
 
@@ -65,7 +66,8 @@ we didn't remove the outliers.
 
 (c) Describe your methodology for selecting your model. Why do you think this type of model works well? 
 
-- [X] Initially we started by using Linear Regression because we knew that we had continuous data to work with so that seemed too be the best option. Later, we tried Random Forest Tree and it gave a much smaller Mean Squared Error result due to its ability to navigate through more complex and larger datasets. With this idea in mind, we decided to try Gradient boosting Regressor and it worked in a very similar method and gave a slightly better result thus for submission of test3 rent we predicted using Ensemble Gradient Boosting REgressor.
+- [X] Initially we started by using Linear Regression because we knew that we had continuous data to work with so that seemed too be the best option. Later, we tried Random Forest Tree and it gave a much smaller Mean Squared Error. We decided to try Gradient boosting Regressor and it worked in a very similar method and gave a slightly better result thus for submission of test3 rent we predicted using Ensemble Gradient Boosting REgressor.
+Reason it works well, due to its ability to navigate through more complex and larger datasets.
 
 # (4) Metrics, Validation, and Evaluation. 
 (a) How well do you think you model will perform on the hold out test set? How do you know? 
