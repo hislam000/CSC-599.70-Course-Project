@@ -96,4 +96,4 @@ Team Member & Name: RentAdvisor (3-Member)
 
 (c) Would you rather have more data, or more features?
 
-- 
+- We would rather have more data because sometimes more data can give us an opportunity to test out more features and see the differences in the results if any. Also, having more data can also bring the accuracy closer to the expected value so using more features after adding extra data into a model could produce better results. This is similar to the law of large numbers. As you perform omre tests you get closer to an expected value.  
