@@ -21,7 +21,7 @@ Team Member & Name: RentAdvisor (3-Member)
 # (2) Data Exploration. 
 (a) What outliers present issues for your analysis? How have you chosen to handle them? Why?
 
-- 
+- []
 
 (b) To what extent do missing values pose a challenge for your analysis? How have you chosen to handle them? Why?
 
@@ -33,7 +33,7 @@ Team Member & Name: RentAdvisor (3-Member)
 
 (d) Create at least one visualization that demonstrates the predictive power of your data. 
 
--
+- []
 
 # (3) Transformation and Modeling.
  (a) Describe 5-10 features you think play the biggest role in your model. 
@@ -60,7 +60,7 @@ Team Member & Name: RentAdvisor (3-Member)
 
 (b) Describe how you are implementing your model. Why do you think this works well? 
 
-- 
+- []
 
 (c) Describe your methodology for selecting your model. Why do you think this type of model works well? 
 
@@ -93,7 +93,7 @@ Team Member & Name: RentAdvisor (3-Member)
   Best possible score is 1.0, lower values are worse.
   0.7693223390436726
 -------------------------------------------------------
-  R^2 (coefficient of determination) regression score function:
+ - [X] R^2 (coefficient of determination) regression score function:
   0.7693186536399759
   
 We think our model would perform fairly well on the hold out test set. Based on the results for each model we tried, we got closer to a perfect score of 1, so our model was pretty consistent and our mean squared error decreased with each trial and gradient boosting gave the best results.   
@@ -104,12 +104,12 @@ We think our model would perform fairly well on the hold out test set. Based on 
 
 (c) Are there any special cases in which your model works particularly well or particularly poorly? 
 
-- 
+- [] 
 
 
 (d) Create at least one visualization that demonstrates the predictive power of your model. 
 
-<img src='CSC-599.70-Course-Project/OLS.png' title='OLS' width='' alt='' />
+- [X] ![495a241f-1d0f-4908-a73d-069e94a2c2b8](https://user-images.githubusercontent.com/36207058/70367217-fe958300-186b-11ea-8402-a768fb6feae9.jpg)
 
 # (5) Conclusion 
 (a) How would you use this model? 
