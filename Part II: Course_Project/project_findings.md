@@ -33,7 +33,7 @@ Team Member & Name: RentAdvisor (3-Member)
 
 (d) Create at least one visualization that demonstrates the predictive power of your data. 
 
-- []
+- [X]![495a241f-1d0f-4908-a73d-069e94a2c2b8](https://user-images.githubusercontent.com/36207058/70367217-fe958300-186b-11ea-8402-a768fb6feae9.jpg)
 
 # (3) Transformation and Modeling.
  (a) Describe 5-10 features you think play the biggest role in your model. 
@@ -71,31 +71,13 @@ Team Member & Name: RentAdvisor (3-Member)
 
 - [X] Linear Regression:
   Mean Squared Error using Linear Regression: 3313817.143868871
-  Explained variance regression score function
-  Best possible score is 1.0, lower values are worse.
-  0.5559738486087318
--------------------------------------------------------
-  R^2 (coefficient of determination) regression score function:
-  0.5556196902015677
-    
+---------------------------------------------------------------- 
 - [X] Random Forest:
   Mean Squared Error using Random Forest Regressor: 1883630.165411068
-  Explained variance regression score function
-  Best possible score is 1.0, lower values are worse.
-  0.7474068681056247
--------------------------------------------------------
-  R^2 (coefficient of determination) regression score function:
-  0.7474066551922682
-
+-----------------------------------------------------------------------
 - [X] Gradient Boosting:
   Mean Squared Error using GradientBoostingRegressor: 1720228.7848562498
-  Explained variance regression score function
-  Best possible score is 1.0, lower values are worse.
-  0.7693223390436726
--------------------------------------------------------
- - [X] R^2 (coefficient of determination) regression score function:
-  0.7693186536399759
-  
+--------------------------------------------------------------------------
 We think our model would perform fairly well on the hold out test set. Based on the results for each model we tried, we got closer to a perfect score of 1, so our model was pretty consistent and our mean squared error decreased with each trial and gradient boosting gave the best results.   
 
 (b) Is your model useful? Why or why not? 
@@ -109,8 +91,31 @@ We think our model would perform fairly well on the hold out test set. Based on 
 
 (d) Create at least one visualization that demonstrates the predictive power of your model. 
 
-- [X] ![495a241f-1d0f-4908-a73d-069e94a2c2b8](https://user-images.githubusercontent.com/36207058/70367217-fe958300-186b-11ea-8402-a768fb6feae9.jpg)
+- [X]  Linear Regression:
+  Explained variance regression score function
+  Best possible score is 1.0, lower values are worse.
+  0.5559738486087318
 
+  R^2 (coefficient of determination) regression score function:
+  0.5556196902015677
+-------------------------------------------------------    
+- [X] Random Forest:
+  Explained variance regression score function
+  Best possible score is 1.0, lower values are worse.
+  0.7474068681056247
+
+  R^2 (coefficient of determination) regression score function:
+  0.7474066551922682
+-------------------------------------------------------
+******************************************************************
+- [X] Gradient Boosting:
+  Explained variance regression score function
+  Best possible score is 1.0, lower values are worse.
+  0.7693223390436726
+
+ - [X] R^2 (coefficient of determination) regression score function:
+  0.7693186536399759
+******************************************************************  
 # (5) Conclusion 
 (a) How would you use this model? 
 
