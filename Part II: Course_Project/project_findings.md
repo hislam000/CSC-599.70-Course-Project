@@ -92,7 +92,7 @@ Team Member & Name: RentAdvisor (3-Member)
   Explained variance regression score function
   Best possible score is 1.0, lower values are worse.
   0.7693223390436726
-  -------------------------------------------------------
+-------------------------------------------------------
   R^2 (coefficient of determination) regression score function:
   0.7693186536399759
   
