@@ -116,7 +116,7 @@ We think our model would perform fairly well on the hold out test set. Based on 
   Best possible score is 1.0, lower values are worse.
   0.7693223390436726
 
- - [X] R^2 (coefficient of determination) regression score function:
+ [X] R^2 (coefficient of determination) regression score function:
   0.7693186536399759
 ******************************************************************  
 # (5) Conclusion 
