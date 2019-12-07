@@ -33,7 +33,7 @@ Team Member & Name: RentAdvisor (3-Member)
 
 (d) Create at least one visualization that demonstrates the predictive power of your data. 
 
-- [X]![495a241f-1d0f-4908-a73d-069e94a2c2b8](https://user-images.githubusercontent.com/36207058/70367217-fe958300-186b-11ea-8402-a768fb6feae9.jpg)
+- [X] ![495a241f-1d0f-4908-a73d-069e94a2c2b8](https://user-images.githubusercontent.com/36207058/70367217-fe958300-186b-11ea-8402-a768fb6feae9.jpg)
 
 # (3) Transformation and Modeling.
  (a) Describe 5-10 features you think play the biggest role in your model. 
