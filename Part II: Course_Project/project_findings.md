@@ -22,7 +22,7 @@ Team Member & Name: RentAdvisor (3-Member)
 (a) What outliers present issues for your analysis? How have you chosen to handle them? Why?
 
 - [X] Outliers are luxury apartments with very high rent price and cheaply rented apartments.Since we are not allowed to delete the data 
-we didn`t remove the outliers.
+we didn't remove the outliers.
 
 (b) To what extent do missing values pose a challenge for your analysis? How have you chosen to handle them? Why?
 
