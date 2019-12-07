@@ -60,7 +60,7 @@ Team Member & Name: RentAdvisor (3-Member)
 
 (b) Describe how you are implementing your model. Why do you think this works well? 
 
-- [X] WE are implementing it using features we chose and predicting the target which is rent. Initial training dataset with 12000 rental records and then we predcted 2000 records of test data to check for accuracy/mean squared error.
+- [X] WE are implementing it using features we chose and predicting the target which is rent. Initial training dataset with 12000 rental records and then we predicted 2000 records of test data to check for accuracy/mean squared error.
 
 (c) Describe your methodology for selecting your model. Why do you think this type of model works well? 
 
