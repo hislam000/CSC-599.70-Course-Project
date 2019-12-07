@@ -3,7 +3,6 @@
     Professor Grant M. Long
 - [X] Due November 23, 2019, 11:59pm: RentAdvisor.ipynb 
 # Due December 7, 2019, 11:59pm: Final_Project.ipynb
-# --------------------------------------
 Team Member & Name: RentAdvisor (3-Member)
 # *ABDUR RAFEY*
 # *HASIBUL ISLAM*
