@@ -109,7 +109,7 @@ We think our model would perform fairly well on the hold out test set. Based on 
 
 (d) Create at least one visualization that demonstrates the predictive power of your model. 
 
-<img src='OLS.png' title='OLS' width='' alt='' />
+<img src='CSC-599.70-Course-Project/OLS.png' title='OLS' width='' alt='' />
 
 # (5) Conclusion 
 (a) How would you use this model? 
