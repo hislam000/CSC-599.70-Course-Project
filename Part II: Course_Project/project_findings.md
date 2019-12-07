@@ -21,7 +21,8 @@ Team Member & Name: RentAdvisor (3-Member)
 # (2) Data Exploration. 
 (a) What outliers present issues for your analysis? How have you chosen to handle them? Why?
 
-- [X] Outliers are luxury apartments with very high rent price and cheaply rented apartments.
+- [X] Outliers are luxury apartments with very high rent price and cheaply rented apartments.Since we are not allowed to delete the data 
+we didn`t remove the outliers.
 
 (b) To what extent do missing values pose a challenge for your analysis? How have you chosen to handle them? Why?
 
@@ -129,5 +130,9 @@ We can use this model to determine if one sector of NYC would be best suited to 
 (c) Would you rather have more data, or more features?
 
 - [X] We would rather have more data because having more data can bring the accuracy closer to the expected value.After adding extra data into our  model could produce better results. This is similar to the law of large numbers. As you perform more tests you get closer to an expected value.  
-####################################################################################
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
 Note: We have graphs and Restaurant finder feature based on external dataset, where you enter the zip code it tells you the good restaurant in your area.
+------------------------------------------------------------------------------------------------------------
