@@ -29,7 +29,7 @@ Team Member & Name: RentAdvisor (3-Member)
 
 (c) Are there any other aspects of the data your exploration shows might be problematic? 
 
--
+- The problem with our model is that, due to the missing data in the training set, we were forced to use medians of the available data to fill in the null values so our final results don't completely reflect what a perfect model would be like, but it is still faily close to the actual results. 
 
 (d) Create at least one visualization that demonstrates the predictive power of your data. 
 
@@ -69,21 +69,47 @@ Team Member & Name: RentAdvisor (3-Member)
 # (4) Metrics, Validation, and Evaluation. 
 (a) How well do you think you model will perform on the hold out test set? How do you know? 
 
--
+- Linear Regression:
+  Mean Squared Error using Linear Regression: 3313817.143868871
+  Explained variance regression score function
+  Best possible score is 1.0, lower values are worse.
+  0.5559738486087318
+-------------------------------------------------------
+  R^2 (coefficient of determination) regression score function:
+  0.5556196902015677
+    
+- Random Forest:
+  Mean Squared Error using Random Forest Regressor: 1883630.165411068
+  Explained variance regression score function
+  Best possible score is 1.0, lower values are worse.
+  0.7474068681056247
+-------------------------------------------------------
+  R^2 (coefficient of determination) regression score function:
+  0.7474066551922682
 
+- Gradient Boosting:
+  Mean Squared Error using GradientBoostingRegressor: 1720228.7848562498
+  Explained variance regression score function
+  Best possible score is 1.0, lower values are worse.
+  0.7693223390436726
+  -------------------------------------------------------
+  R^2 (coefficient of determination) regression score function:
+  0.7693186536399759
+  
+We think our model would perform fairly well on the hold out test set. Based on the results for each model we tried, we got closer to a perfect score of 1, so our model was pretty consistent and our mean squared error decreased with each trial and gradient boosting gave the best results.   
 
 (b) Is your model useful? Why or why not? 
 
-- 
+- Our model is useful as its variables correlate with each other at a fairly consistent rate based on the R-squared value.  
 
 (c) Are there any special cases in which your model works particularly well or particularly poorly? 
 
--
+- 
 
 
 (d) Create at least one visualization that demonstrates the predictive power of your model. 
 
--
+<img src='OLS.png' title='OLS' width='' alt='' />
 
 # (5) Conclusion 
 (a) How would you use this model? 
@@ -96,4 +122,4 @@ Team Member & Name: RentAdvisor (3-Member)
 
 (c) Would you rather have more data, or more features?
 
-- We would rather have more data because sometimes more data can give us an opportunity to test out more features and see the differences in the results if any. Also, having more data can also bring the accuracy closer to the expected value so using more features after adding extra data into a model could produce better results. This is similar to the law of large numbers. As you perform omre tests you get closer to an expected value.  
+- We would rather have more data because sometimes more data can give us an opportunity to test out more features and see the differences in the results if any. Also, having more data can also bring the accuracy closer to the expected value so using more features after adding extra data into a model could produce better results. This is similar to the law of large numbers. As you perform more tests you get closer to an expected value.  
