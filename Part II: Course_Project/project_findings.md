@@ -16,12 +16,12 @@ Team Member & Name: RentAdvisor (3-Member)
 
 (b) Does the inclusion of this additional data raise any ethical considerations? 
 
-- [X] One ethical consideration could be that the zip codes act like a sector divider. Thus, we get an idea of the common rent prices in different areas of New York City, which gives an indication of the social classes of tanants living in those areas.
+- [X] One ethical consideration could be that the zip codes act like a sector divider. Thus, we get an idea of the common rent prices in different areas of New York City, which gives an indication of the social classes of tenants living in those areas.
 
 # (2) Data Exploration. 
 (a) What outliers present issues for your analysis? How have you chosen to handle them? Why?
 
-- [X] Outliers are luxury apartements with very high rent price and cheaply rented apartments.
+- [X] Outliers are luxury apartments with very high rent price and cheaply rented apartments.
 
 (b) To what extent do missing values pose a challenge for your analysis? How have you chosen to handle them? Why?
 
