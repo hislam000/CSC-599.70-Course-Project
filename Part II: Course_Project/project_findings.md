@@ -129,3 +129,5 @@ We can use this model to determine if one sector of NYC would be best suited to 
 (c) Would you rather have more data, or more features?
 
 - [X] We would rather have more data because having more data can bring the accuracy closer to the expected value.After adding extra data into our  model could produce better results. This is similar to the law of large numbers. As you perform more tests you get closer to an expected value.  
+####################################################################################
+Note: We have graphs and Restaurant finder feature based on external dataset, where you enter the zip code it tells you the good restaurant in your area.
